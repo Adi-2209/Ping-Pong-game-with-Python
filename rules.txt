@@ -1,0 +1,12 @@
+RULES 
+
+  1.Each round will be played to 11 points
+  2.Player 1 will be on the left whereas player 2 will be on the right side
+  3.In this game, Player 1 will be you whereas player 2 will be the computer 
+      4.The player who misses the hit will lose a point whereas the opponent player will score a point
+  5.Controls: For player1: upward and downward arrows
+                  For player2: "w" is upward and "e" is downward
+  6.The scores of the players will be displayed
+
+  READY? PRESS START!! 
+
